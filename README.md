@@ -1,7 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
-
+https://visionary-beignet-3a42a9.netlify.app
 **URL**: https://lovable.dev/projects/e2867ccf-37cb-46e6-a325-8a053101e946
 
 ## How can I edit this code?
